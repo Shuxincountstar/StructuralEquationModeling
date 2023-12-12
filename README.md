@@ -1,4 +1,4 @@
 # StructuralEquationModeling
 
-#### Validate the factor structure of creativity
-#### Rawdata and preprocess part is ommited
+#### Validate the latent factorial structure of creativity
+#### Rawdata and data preprocessing is ommited
